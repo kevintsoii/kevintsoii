@@ -10,7 +10,7 @@ Check out some of my favorite creations:
 - 🔢 [2048 - Java](https://github.com/kevintsoii/2048-Java) - A recreation of the popular mobile game 2048
 
 ### ⚡ Languages and Tools
-Technologies I enjoy working with the most:
+Technologies I most enjoy working with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
