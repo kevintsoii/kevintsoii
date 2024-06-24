@@ -5,9 +5,9 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/kevi
 
 ### 🛠️ Projects
 Check out some of my favorite creations:
-- 🍔 [SJSU Eats](https://github.com/kevintsoii/SJSU-Eats) - A menu & calorie tracker website for the campus' Dining Commons
-- ⭐ [Starfield](https://devpost.com/software/starfield-agdnj6) - A web app for astronomy enthusiasts which shows current sky visibility conditions
-- 🔢 [2048 - Java](https://github.com/kevintsoii/2048-Java) - A recreation of the popular mobile game
+- 🍔 [SJSU Eats](https://github.com/kevintsoii/SJSU-Eats) - A menu & calorie tracker website for the SJSU Dining Commons
+- ⭐ [Starfield](https://devpost.com/software/starfield-agdnj6) - A web app for astronomy enthusiasts that shows current sky visibility conditions
+- 🔢 [2048 - Java](https://github.com/kevintsoii/2048-Java) - A recreation of the popular mobile game 2048
 
 ### ⚡ Languages and Tools
 Technologies I enjoy working with the most:
