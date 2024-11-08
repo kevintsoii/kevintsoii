@@ -1,16 +1,16 @@
 # Hello, I'm Kevin! 👋
-I'm a full stack developer and 2nd year CS student at SJSU. My passion lies in exploring new technologies and developing software to simplify everyday tasks.
+I'm a software engineer and 3rd year CS student at SJSU. My passion lies in exploring new technologies and developing software to simplify everyday tasks.
 
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/kevin-tsoi/)!
 
 ### 🛠️ Projects
 Check out some of my favorite creations:
+- 📖 [GE Explorer](https://github.com/kevintsoii/GE-Explorer) - A website to find transferrable CC courses
 - 🍔 [SJSU Eats](https://github.com/kevintsoii/SJSU-Eats) - A menu & calorie tracker website for the SJSU Dining Commons
 - ⭐ [Starfield](https://devpost.com/software/starfield-agdnj6) - A web app for astronomy enthusiasts that shows current sky visibility conditions
-- 🔢 [2048 - Java](https://github.com/kevintsoii/2048-Java) - A recreation of the popular mobile game 2048
 
 ### ⚡ Languages and Tools
-Technologies I most enjoy working with:
+Technologies I enjoy working with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
